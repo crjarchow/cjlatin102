@@ -1,0 +1,3 @@
+You already know the background to this story: Deianira was tricked by Nessus into believing that the vial of poison he gave her was actually a love potion.
+
+Cum Deianira, filia Oenei et uxor Herculis vidit ut pulchre adolescens puella lata est suae casae, inepit machinare planum ne privari sua viro. Misit suae famulo ferre Herculi vestem mersum in sanguen centauri Nessi quo sensit erat philtrum. Hercules posuit vestem in ipso et statim flammavit. Hercules coniecit servum in pelago quem Deianira miserat reducere vestem. Dicitur ut Hercules subrexit immortalitati sed Deianira interfecit suam propter hanc facturam.
