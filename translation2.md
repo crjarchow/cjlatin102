@@ -40,16 +40,16 @@ Identify the form of sagittis. Why does Hyginus use this case?
   Ablative, plural, ablative of means. Uses this case as it describes the actions between Hercules and Nessus concerning the fixation of arrows. 
 
 Identify the form of moriens.
-  present active particple ❌ **gender, number?**
+  present active particple ❌ masculine, singular
 
 Identify felle. Why does Hyginus use this case?
   ablative, singular, neuter. He uses this case as a descriptor❌ of the word it modifies "tinctas" which is a perfect passive participle
 
 Identify the form of tinctas.
-  perfect passive participle ❌
+  perfect passive participle ❌ accusative feminine plural
 
 Identify the form of exceptum.
-  perfect passive participle ❌
+  perfect passive participle ❌ 
 
 William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin. 
   Ut depono moriens ❌
