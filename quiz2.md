@@ -55,47 +55,77 @@ Not sure how all of these are incorrect? Used a different verb this time
       Vir polliciti sunt aura (The man was promised gold)
     pollicitum esse
     polliciti essent
+
 English relative clauses
-  Eurytion came to the wedding with his brothers, who were violent Centaurs.❌ 
-    The brothers, who came to the wedding with Eurytion, were violent Centaurs. 
-  Dexamenus was afraid of Eurytion, who was promised in marriage to Deianira. ❌ How is this incorrect? Eurytion is the antecedent and the relative clause tells us more about Eurytion
-  Eurytion, whose brothers were centaurs, expected to marry Deianira.
-  Nessus, who Herculues killed, tried to rape Deianira.
-  Nessus gave Deianira a vial of blood that posioned Hercules.❌  blood is the antecendent and the relative clause tells us that the blood poisoned Hercules.
-  In Egypt, Hercules killed the priest Busiris who regularly sacrificed foreigners.
-  Prometheus' heart was devored by an eagle who Hercules shot dead with his arrows. 
-  Lycus, whom❌ was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites. Lycus is antecedent
+
+Eurytion came to the wedding with his brothers, who were violent Centaurs.❌ 
+  The brothers, who came to the wedding with Eurytion, were violent Centaurs. 
+
+Dexamenus was afraid of Eurytion, who was promised in marriage to Deianira. ❌ How is this incorrect? Eurytion is the antecedent and the relative clause tells us more about Eurytion
+
+Eurytion, whose brothers were centaurs, expected to marry Deianira.
+
+Nessus, who Herculues killed, tried to rape Deianira.
+
+Nessus gave Deianira a vial of blood that posioned Hercules.❌  blood is the antecendent and the relative clause tells us that the blood poisoned Hercules.
+
+In Egypt, Hercules killed the priest Busiris who regularly sacrificed foreigners.
+
+Prometheus' heart was devored by an eagle who Hercules shot dead with his arrows. 
+
+Lycus, whom❌ was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites. Lycus is antecedent
     Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites. 
-  Hercules, who was refused an oracle by Apollo,❌ stole a tripod from the temple at Delphi.
-  Hercules, who was driven into a fit of madness by Juno❌, killed his wife Megara.
+
+Hercules, who was refused an oracle by Apollo,❌ stole a tripod from the temple at Delphi.
+    Hercules, whom was refused an oracle by Apollo, stole a tripod from the temple at Delphi.
+
+Hercules, who was driven into a fit of madness by Juno❌, killed his wife Megara. 
+    Herculues, whom was driven into a fit of madness by Juno, killed his wife Megara
+    
 Latin relative clauses
  1. qui
     brothers - fratres; masucline plural
     nominative because it is the subject
+    
  2. qui
     Eurytion; masculine singular   
     nominative because it is the subject
+    
  3. cuis❌
     Eurytion; masculine singular
     genitive because it denotes possession
+   How is this incorrect? whose denotes possession, thus the pronoun will be in the genitive case and thus be cuis
+   
  4. quem
     Nessus; masculine singular
     accusative because it is the direct object
- 5. quod❌
+    
+ 5. quod❌ quem
     blood - sanguis; masucline singualar
     accusative because it is the direct object
+    
  6. qui
     Busiris - masculine singular
     nominative because it is the subject
+    
  7. quam
     eagle - aquila; feminine singular
     accusative because it is the direct object
+    
  8. qui
     Lycus - masculine singular
     nominative because it is the subject
+    
  9. qui❌
     Hercules - masucline singular
     nominative because it is the subject
-10. qui❌
+      quem
+      Herculues - masculine singular
+      accusative because it is the direct object in the relative clause
+      
+10. qui❌ 
     Hercules - masculine singular
     nominative because it is the subject
+      quem
+      Hercules - masculine singular
+      accusative because it it the direct object in the relative clause
